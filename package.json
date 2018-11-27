@@ -13,9 +13,6 @@
   "scripts": {
     "demo": "browser-sync start --server . --startPath ./demo/index.html"
   },
-  "engines": {
-    "node": "^6.0.0"
-  },
   "bugs": {
     "url": "https://github.com/audi/audi-icon/issues"
   },
